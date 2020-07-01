@@ -18,6 +18,8 @@
     "serverless-offline": "^5.3.3"
   },
   "dependencies": {
-    "aws-sdk": "^2.708.0"
+    "aws-sdk": "^2.708.0",
+    "jest": "^26.1.0",
+    "stripe": "^8.67.0"
   }
 }
